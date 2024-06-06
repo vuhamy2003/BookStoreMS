@@ -1,0 +1,81 @@
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\bin\Debug\Database\dulieu.mdf
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\bin\Debug\Database\dulieu_log.ldf
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\bin\Debug\BTL.exe.config
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\bin\Debug\BTL.exe
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\bin\Debug\BTL.pdb
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.exe
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.pdb
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.main.resources
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.Forms.dangnhap.resources
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.Forms.danhmucsach.resources
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.Forms.danhmuckh.resources
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.Forms.danhmucncc.resources
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.Forms.danhmucnv.resources
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.Forms.timkiemsach.resources
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.Forms.timkiemnv.resources
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.Forms.hoadonban.resources
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.Forms.hoadonnhap.resources
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.Forms.timkiemhdb.resources
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.Forms.timkiemhdn.resources
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+C:\Users\vuhamy\Desktop\HVNH\Lập trình Net\BTL\obj\Debug\BTL.Forms.baocaodoanhthuthang.resources
+D:\BTL\bin\Debug\Database\dulieu.mdf
+D:\BTL\bin\Debug\Database\dulieu_log.ldf
+D:\BTL\bin\Debug\BTL.exe.config
+D:\BTL\bin\Debug\BTL.exe
+D:\BTL\bin\Debug\BTL.pdb
+D:\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+D:\BTL\obj\Debug\BTL.Forms.dangnhap.resources
+D:\BTL\obj\Debug\BTL.Forms.danhmuckh.resources
+D:\BTL\obj\Debug\BTL.Forms.danhmucncc.resources
+D:\BTL\obj\Debug\BTL.Forms.danhmucnv.resources
+D:\BTL\obj\Debug\BTL.Forms.danhmucsach.resources
+D:\BTL\obj\Debug\BTL.Forms.hoadonban.resources
+D:\BTL\obj\Debug\BTL.Forms.hoadonnhap.resources
+D:\BTL\obj\Debug\BTL.main.resources
+D:\BTL\obj\Debug\BTL.Forms.timkiemhdb.resources
+D:\BTL\obj\Debug\BTL.Forms.timkiemhdn.resources
+D:\BTL\obj\Debug\BTL.Forms.timkiemnv.resources
+D:\BTL\obj\Debug\BTL.Forms.timkiemsach.resources
+D:\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\BTL\obj\Debug\BTL.exe
+D:\BTL\obj\Debug\BTL.pdb
+D:\BTL\obj\Debug\BTL.Forms.baocaosachbanchay.resources
+D:\BTL\obj\Debug\BTL.Forms.baocaodoanhthu.resources
+D:\BTL\obj\Debug\BTL.Forms.baocaotonkhonhieu.resources
+D:\BTL\obj\Debug\BTL.Forms.baocaokhachhang.resources
+D:\BTL_Nhóm 3\bin\Debug\Database\dulieu.mdf
+D:\BTL_Nhóm 3\bin\Debug\Database\dulieu_log.ldf
+D:\BTL_Nhóm 3\bin\Debug\BTL.exe.config
+D:\BTL_Nhóm 3\bin\Debug\BTL.exe
+D:\BTL_Nhóm 3\bin\Debug\BTL.pdb
+D:\BTL_Nhóm 3\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\BTL_Nhóm 3\obj\Debug\BTL.csproj.ResolveComReference.cache
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.baocaodoanhthu.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.baocaokhachhang.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.baocaosachbanchay.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.baocaotonkhonhieu.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.dangnhap.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.danhmuckh.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.danhmucncc.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.danhmucnv.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.danhmucsach.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.hoadonban.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.hoadonnhap.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.main.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.timkiemhdb.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.timkiemhdn.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.timkiemnv.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Forms.timkiemsach.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.Properties.Resources.resources
+D:\BTL_Nhóm 3\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\BTL_Nhóm 3\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\BTL_Nhóm 3\obj\Debug\BTL.exe
+D:\BTL_Nhóm 3\obj\Debug\BTL.pdb
